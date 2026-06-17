@@ -1,9 +1,0 @@
-2026-05-20 18:26:22 [ACTION ] Admin logged in.
-2026-05-20 18:35:32 [ACTION ] Admin logged in.
-2026-05-20 18:35:52 [ACTION ] Admin viewed customer report.
-2026-05-20 18:35:55 [ACTION ] Admin viewed currently-issued report.
-2026-05-20 18:35:59 [ACTION ] Admin viewed overdue report.
-2026-05-20 18:36:01 [INFO   ] Books saved to file.
-2026-05-20 18:36:01 [INFO   ] Users and borrow records saved.
-2026-05-20 18:36:01 [INFO   ] Hold records saved.
-2026-05-20 18:36:01 [ACTION ] Admin logged out.
