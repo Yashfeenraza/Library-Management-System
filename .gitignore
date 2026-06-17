@@ -1,0 +1,13 @@
+# Qt Creator build directories
+build-*/
+
+# Qt User configuration files
+*.user
+*.pro.user*
+
+# Statically compiled files/executables
+*.exe
+*.o
+*.obj
+moc_*.cpp
+ui_*.h
